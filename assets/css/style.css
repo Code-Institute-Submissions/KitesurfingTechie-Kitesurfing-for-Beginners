@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,25 +8,31 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 300; 
-    color:#cae0f5;
+    font-weight: 300;
+    color: #cae0f5;
     background-color: #91B2C7;
 }
 
 /* headers and log */
 
-h1, h2 {
+h2 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #cae0f5;
+    color: #eee7e9;
     position: relative
+}
+
+h5 {
+    font-family: sans-serif;
+    color: rgb(96, 207, 207);
 }
 
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    font-family: 'Roboto', sans-serif
 }
 
 /* navigation links */
@@ -35,7 +42,8 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -55,9 +63,23 @@ h1, h2 {
 }
 
 
-
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+.checkbtn {
+    font-size: 30px;
+    color: #a5cbee;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#check {
+    display: none;
+
 }
 
 /* hero image */
@@ -70,14 +92,20 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
-    color: #fff ;
+#cover-text,
+#cover-text h2 {
+    color: #fff;
 }
 
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('/assets/css/images/kiter.jpeg') no-repeat center center;
+    background-size: cover;
+    background-image: url('../images/kiter9.jpg');
+    background-position: center;
+
+
+
 
     /* animateion zooms effect on loading page*/
     animation-name: hero-zoom;
@@ -90,10 +118,11 @@ h1, h2 {
 /*creates the level of zoom on the hero image */
 
 @keyframes hero-zoom {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
 
     }
@@ -101,7 +130,7 @@ h1, h2 {
 
 #cover-text {
     font-size: 130%;
-    font-family:  'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -110,7 +139,7 @@ h1, h2 {
 
     padding-top: 40px;
     padding-left: 10px;
-    background-color: #91B2C7;
+    background-color: #679bbe;
 
     bottom: 30px;
     right: 150px;
@@ -146,7 +175,7 @@ h1, h2 {
 }
 
 hr {
-    border-top: 1px solid #3a3a3a;
+    border-top: 1px solid#eaf0f3;
     width: 100%;
     margin: 5px;
 }
@@ -193,21 +222,14 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('/assets/css/images/kiter2.jpeg');
+    background: url('../images/kiter2.jpeg');
     height: 100%;
     border-radius: 50%;
 }
 
-#video {
-    background: url('assets/css/images/video.mp4');
-    height: 100%;
-    border-radius: 90%;
-    padding: 300px;
-    position: relative;
-}
 
 #times {
-    background-image: url('/assets/css/images/kiter8.jpeg');
+    background-image: url('../images/kiter8.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -243,7 +265,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -263,7 +285,7 @@ footer {
     column-gap: 0;
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -285,9 +307,11 @@ footer {
     #welcome {
         padding: 30px 0;
         margin: 0;
+        color: red;
     }
 
-    #left-about, #right-about {
+    #left-about,
+    #right-about {
         width: 100%;
         float: left;
         padding: 0;
@@ -300,7 +324,7 @@ footer {
         padding: 0;
     }
 
-    #times > div {
+    #times>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -308,6 +332,11 @@ footer {
     }
 
     hr {
+        display: none;
+    }
+
+
+    .checkbtn {
         display: none;
     }
 }
@@ -322,48 +351,175 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    nav ul li {
+        display: block;
+    }
+
+    nav ul li a {
+        font-size: 20px;
+    }
 }
 
-    #cover-text {
-        left: 0;
-    }
+#cover-text {
+    left: 0;
+}
 
-    #club-ethos {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
+#club-ethos {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+}
 
-    .left-about-heading, .right-about-heading {
-        width: inherit
-    }
+.left-about-heading,
+.right-about-heading {
+    width: inherit
+}
 
-    .left-about-heading h2, .right-about-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
+.left-about-heading h2,
+.right-about-heading h2 {
+    width: 100%;
+    text-align: center;
+}
 
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 20px;
-    }
+.left-about-heading p,
+.right-about-heading p {
+    text-align: center;
+    padding: 20px;
+}
 
-    #photos {
-        column-count: 3;
-    }
+#photos {
+    column-count: 3;
+}
 
-} 
+.checkbtn {
+    display: none;
+}
+
+
+
+
 /*for smaller screens sizes 800px */
 
 @media screen and (max-width: 800px) {
+    .checkbtn {
+        display: block;
+    }
+
     #photos {
         column-count: 2;
     }
-
-
-
-}
-    
 }
 
 
+
+/* Sign up page */
+
+#signup-form {
+    height: 100%;
+    width: 100%;
+    border: none;
+    text-align: center;
+    color: #404040;
+}
+
+.signup-form label,
+.signup-form h2 {
+    color: #404040;
+}
+
+#Lets-Go {
+    color: rgb(232, 241, 241);
+    background-color: rgb(82, 82, 173);
+    padding: 2%;
+}
+
+
+
+/* maps */
+#map-wrapper {
+
+    height: 300px;
+    margin-bottom: 107px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+
+/* win a booking */
+
+input[list=coffees] {
+    width: 45%;
+}
+
+select {
+    height: 36px;
+    width: 100px;
+    padding-left: 10px;
+}
+
+form {
+    width: 700px;
+    padding: 25px;
+    border-radius: 8px;
+    margin: 25px auto;
+    background-color: white;
+}
+
+#Enter-Form {
+    color: rgb(232, 241, 241);
+    background-color: rgb(74, 74, 202);
+    padding: 2%;
+
+}
+
+#Reset-Form {
+    color: rgb(232, 241, 241);
+    background-color: rgb(90, 90, 211);
+    padding: 2%;
+
+}
+
+.block-label {
+    display: block;
+}
+
+legend {
+    font-size: large;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 20px 0 10px 0;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+label {
+    margin: 10px 15px 5px 0;
+}
+
+.checkboxes-box div {
+    margin-top: 15px;
+}
+
+#reasons li {
+    margin-top: 5%;
+}
+
+#terms {
+    height: 200px;
+    width: 90%;
+    padding: 0.5rem;
+    margin: 1.5rem 0 0 15px;
+    border: 1px solid grey;
+    overflow: scroll;
+}
