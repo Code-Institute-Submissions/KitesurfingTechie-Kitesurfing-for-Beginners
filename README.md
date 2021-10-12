@@ -1,108 +1,168 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome KitesurfingTechie,
+Kitesurfing for beginners
+Live link
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+GitHub Repository
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+responsive
 
-## Gitpod Reminders
+Overview
+Kitesurfing for beginners is my Portfolio 1 project.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The site is fully responsive and laid out in a minimal manner to present users with relevant and clear information. The site is generated through html. I was originally given a brief of a project before I started or had the option to come up with my own. I decided to challenge myself and completely come up with an original idea and that is how 'Kitesurfing for beginners' was created. The scope of the project does not include any back-end functionality, so whilst there is a "Win a lesson" and "Sign-up" form on my page, the information entered into the fields will not feed anywhere.
 
-`python3 -m http.server`
+UX
+The primary goal with the sites UX, in terms of UI, was to ensure the design was a simple design, almost minimalist, which helps unclutter and not overload the audience with information and overwhelm them.
 
-A blue button should appear to click: _Make Public_,
+From the beginning in the early development stage with planning the wireframes of the website my goal was to have my images as a main focal point. To enforce that from the first interaction, I decided to have a full page image of a Kitesurfer (her0-image), which immediately gives the audience the feel of what the website is all about. The landing page highlights the benefits of Kitesurfing, as well as showing the times  (of which is displayed on other pages also should the user need same, the concept is of repetitive simplicity).
 
-Another blue button should appear to click: _Open Browser_.
+First Time Visitor Goals:
+As a first time visitor I need to able to navigate the site easily and clearly understand how to use the function of the site.
+I would like to understand Who, What, Where and When these lessons take place.
+I would like to know how to make a booking for a lesson, and i would like that process to be very very clear and simple.
+I would also like to understand the benefits of kitesurfing.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: _Make Public_,
+Design:
+Typography
+My ambition was to maintain transperancy throughout the customer journey, so I tried to maintain consistency in font and design throughout.
 
-Another blue button should appear to click: _Open Browser_.
+Logo
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+My Headings for all of my pages use a font called 'Roboto''. I chose this font because it is easy to read and it makes it clear that the headings are the introduction to every page.
 
-To log into the Heroku toolbelt CLI:
+Any other text that was used throughout the site has a font of 'sans-serif' and I chose this font because it looks very modern and again is easy to read.
+paragraphs
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Colour Scheme
+design
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+The site's primary colours are blue, cream, navy and white. 
 
-------
+The reason for my colour palette was to try and resemble beach imagery. The font color and gallery imagery worked well with this mix of colour. I feel the website has an aqua feel.
 
-## Release History
+Layout:
+As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Information about the times/booking for lessons is displayed on a number of pages, as it is the primary purpose of the site. It was important that this information was transperant clear and easy to understand.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Wireframes
+Below will be attached of all my wireframes. These were very basic mockups of how I intended my website to look from the beginning.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Index.html
+Index-Page
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+My original plan as can be seen above was to have separate boxes on the home page which provided information and small catch phrases to draw in the target audience. However, throughout development I settled down on the idea that the home was more of a welcome page to the target audience. The only service it would have would be to help navigate people throughout the rest of the site.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Trails.html
+Trails-Page
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+When designing my trails page, my original plan was to have images floating left and right going all the way down the page, which a box either to the left or right of them depending on where the image was explaining about each of the trails. However, during development, I decided to have just the images first and then the information would be displayed when the user hovers over them.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+Phone And tablet Devices
+phone tablet
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Features
+Current Features
+Every page is responsive on all devices.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+The footer contains 4 social media icons which are completely interactive and will take people to our social accounts where they can further contact us and look out for latest news.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Footer Socials
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Home page - This page contains buttons which will guide the audience to other places in the site.
+Home Buttons
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+About page - This page provides the audience with information about me and the idea for the company.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Trails page - A page which consists of a 3 x 3 grid which allows users to select and read up on their desired choosing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Trail Boxes
 
-------
+Book page - this page allows users to fill out a form which will help them book their favourite trails. (However, due to no back-end functionality, the information won't get fed anywhere)
 
-## FAQ about the uptime script
+Contact page - A page which gives the users plenty of information on how to contact and find us if they need assistance with anything.
 
-**Why have you added this script?**
+Future Features
+Store - A store or even a basket section would be beneficial to the website because it will make booking trails for the user even easier.
+Technologies Used
+Below is everything that I used throughout development which helped with building the website.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+HTML: - HTMl5 provided the content and the structure of my website. I used a few semantic elements where possible.
 
-**How will this affect me?**
+CSS: - CSS was used to style all my pages.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Google Fonts: - Google fonts was used to import all font types for the different elements.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+Font Awesome: - Font awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+Git - Git was used for version control. Allowing me to create backups whenever significant changes were made to code by utilizing the gitpod terminal to commit to Git and Push to GitHub.
 
-**So….?**
+GitHub: - GitHub was used to externally hold my repository. Will also use GitHub pages to deploy my website.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+Balsamiq: - Balsamiq was used tp create wireframes during the designing process.
 
-**Can I opt out?**
+Coolors - Coolors was used to help design my colour palette for the website.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Testing
+Testing was carried out both manually and automatically.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+For Manual testing I constantly had a preview of the website and specifically the page I was working on which I would check on regularly and hard reset the browser so any changes to my code would appear. If I found there was an error with my code, especially when first working with media queries, I would use the dev tools to change, alter and add code and make sure it worked smoothly before then adding it to gitpod. I also tested responsiveness both through console tools, alongside using different browsers on different type of devices.My different browser is Google Chrome and this is where I did majority of my tests, but I was able to use safari, microsoft edge and firefox and test my website on them as well.
 
-**Anything more?**
+I also regularly generated lighthouse reports which would help give me an indication on how well my page was preforming. There was a case in one of the reports where the performance was low due to the size of the images that I used. From that report I compressed my images down so they didn't create such a delay when loading up certain pages. I have an example here of a lighthouse report that was carried out on my contact.html page.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+reports
 
----
+Automatic testing of my HTML and CSS structure were done in W3C Validator to ensure there were no errors in my code and that it was formatted properly. (All of my pages and CSS was run through the validator and none of them show any errors)
 
-Happy coding!
+HTML validator for index.html
+
+Index HTML Validator
+
+CSS Validator
+
+CSS Validator
+
+Additionally to the above, I had given my Github pages link to various people in order to rigorously test the website, both on mobile and desktop.
+
+Bugs
+During the testing of the build I discorvered that content wasn't appearing how it was supposed to. I will list a few of the bugs below.
+
+Bug: I had coded it so on mobile screen sizes, the nav bar turned into a dropdown menu, however for some reason it wasn't being implemented when testing the website.
+
+Solution: There was a problem in my code where one of my 'meta' was named viewport instead of description. As a result of that, it overrided the other viewport meta and caused my website to not work.
+
+Bug: My hero image for the index page wouldn't stretch to screen for mobile devices.
+
+Solution: I altered my code and changed the height of the image from pixels to 'vh'.
+
+Deployment
+GitHub Pages
+I deployed this site through GitHub pages. This was a simple process, as follows:
+
+Log into GitHub
+
+Go to the repository
+
+Go to settings
+
+Scroll down to "GitHub Pages" section
+
+Select the source (I chose master branch in this instance)
+
+After some time, the site will be deployed and ready to see.
+
+Credits
+Thanks to Reuben Ferrante, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right direction.
+
+The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project.
+
+W3Schools for their exceptional explanations and useful examples.
+
+Coolors - Used to create my colour palette.
+
+Balsamiq - Used to build wireframes for my website.
+
+W3C Validator - A validator used to check my HTML and CSS structure and format periodically throughout the build.

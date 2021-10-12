@@ -1,85 +1,67 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
+    * {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    color: #cae0f5;
-    background-color: #91B2C7;
-}
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        color: #cae0f5;
+        background-color: #91B2C7;
+    }
 
 /* headers and log */
 
-h2 {
-    font-family: 'Roboto', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #eee7e9;
-    position: relative
-}
+    h2 {
+        font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color: #eee7e9;
+        position: relative
+    }
 
-h5 {
-    font-family: sans-serif;
-    color: rgb(96, 207, 207);
-}
+    h5 {
+        font-family: sans-serif;
+        color: rgb(96, 207, 207);
+    }
 
-#logo {
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
-    font-family: 'Roboto', sans-serif
-}
+    #logo {
+        float: left;
+        font-size: 280%;
+        margin-left: 30px;
+        font-family: 'Roboto', sans-serif
+    }
 
 /* navigation links */
+    #menu {
+        font-size: 110%;
+        letter-spacing: 4px;
+    }
 
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-}
+    #menu, #logo {
+        line-height: 75px;
+    }
 
-#menu,
-#logo {
-    line-height: 75px;
-}
+    #menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 30px;
+    }
 
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
+    #menu a {
+        text-decoration: none;
+        color: inherit;
+    }
 
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
-
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
 
 .active {
     border-bottom: 1px solid #3a3a3a;
-}
-
-.checkbtn {
-    font-size: 30px;
-    color: #a5cbee;
-    float: right;
-    line-height: 80px;
-    margin-right: 40px;
-    cursor: pointer;
-    display: none;
-}
-
-#check {
-    display: none;
-
 }
 
 /* hero image */
@@ -127,6 +109,8 @@ h5 {
 
     }
 }
+
+
 
 #cover-text {
     font-size: 130%;
@@ -208,6 +192,7 @@ hr {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+    color: rgb(102, 112, 170);
 }
 
 #circle-container {
@@ -307,7 +292,7 @@ footer {
     #welcome {
         padding: 30px 0;
         margin: 0;
-        color: red;
+        color: rgb(102, 112, 170);
     }
 
     #left-about,
@@ -336,9 +321,7 @@ footer {
     }
 
 
-    .checkbtn {
-        display: none;
-    }
+   
 }
 
 /* For medium screen sizes from 950px wide and down */
@@ -392,19 +375,9 @@ footer {
     column-count: 3;
 }
 
-.checkbtn {
-    display: none;
-}
-
-
-
-
 /*for smaller screens sizes 800px */
 
 @media screen and (max-width: 800px) {
-    .checkbtn {
-        display: block;
-    }
 
     #photos {
         column-count: 2;
@@ -468,6 +441,7 @@ form {
     border-radius: 8px;
     margin: 25px auto;
     background-color: white;
+    color: darkslategray;
 }
 
 #Enter-Form {
@@ -523,3 +497,5 @@ label {
     border: 1px solid grey;
     overflow: scroll;
 }
+
+
