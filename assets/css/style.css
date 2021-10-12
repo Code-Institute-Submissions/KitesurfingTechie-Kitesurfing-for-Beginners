@@ -1,17 +1,6 @@
     @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
 
-    * {
-        margin: 0;
-        padding: 0;
-        border: none;
-    }
-
-    body {
-        font-family: 'Roboto', sans-serif;
-        font-weight: 300;
-        color: #cae0f5;
-        background-color: #91B2C7;
-    }
+    
 
 /* headers and log */
 
@@ -319,15 +308,6 @@ footer {
     hr {
         display: none;
     }
-
-    #menu {
-        clear: right;
-        float: right;
-        margin-right: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
    
 }
 
