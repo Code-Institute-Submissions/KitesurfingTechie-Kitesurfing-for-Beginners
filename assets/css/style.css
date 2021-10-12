@@ -320,6 +320,13 @@ footer {
         display: none;
     }
 
+    #menu {
+        clear: right;
+        float: right;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 
    
 }
