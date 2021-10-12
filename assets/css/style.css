@@ -1,6 +1,16 @@
     @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald&display=swap');
 
+    * {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
     
+    body {
+        font-family: Lato, sans-serif;
+        font-weight: 300;
+        color: #3a3a3a;
+    }
 
 /* headers and log */
 
@@ -8,7 +18,7 @@
         font-family: 'Roboto', sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
-        color: #eee7e9;
+        color: #cfb7be;
         position: relative
     }
 
@@ -21,7 +31,9 @@
         float: left;
         font-size: 280%;
         margin-left: 30px;
-        font-family: 'Roboto', sans-serif
+        font-family: 'Roboto', sans-serif;
+        color: #679bbe;
+
     }
 
 /* navigation links */
