@@ -26,7 +26,7 @@
         padding: 0;
         list-style: none;
         overflow: hidden;
-        background-color: #fff;
+        background-color: #d5f3fe;
       }
       
       .header li a {
@@ -415,6 +415,10 @@ footer {
         width: 100%;
     }
 
+    .signup-form {
+        width: 500px;
+    }
+
 }
 
 #cover-text {
@@ -507,7 +511,6 @@ input[list=coffees] {
 }
 
 select {
-    height: 36px;
     width: 100px;
     padding-left: 10px;
 }
