@@ -9,12 +9,15 @@ responsive
 Overview
 Kitesurfing for beginners is my Portfolio 1 project.
 
-The site is fully responsive and laid out in a minimal manner to present users with relevant and clear information. The site is generated through html. I was originally given a brief of a project before I started or had the option to come up with my own. I decided to challenge myself and completely come up with an original idea and that is how 'Kitesurfing for beginners' was created. The scope of the project does not include any back-end functionality, so whilst there is a "Win a lesson" and "Sign-up" form on my page, the information entered into the fields will not feed anywhere.
+The site is fully responsive and laid out in a minimal manner to present users with relevant and clear information. The site is generated through html. I was originally given a brief of a project before I started or had the option to come up with my own. I decided to challenge myself and completely come up with an original idea and that is how 'Kitesurfing for beginners' was created. The scope of the project does not
+include any back-end functionality, so where a customer completed "Win a lesson" and "Sign-up" form on my page, the information entered into the fields will not feed anywhere. However, the customer will be redirected to a follow-on page on both instances, i.e. Thank you for your booking & Thank you for completing the form with a chance to win a lesson".
 
 UX
 The primary goal with the sites UX, in terms of UI, was to ensure the design was a simple design, almost minimalist, which helps unclutter and not overload the audience with information and overwhelm them.
 
-From the beginning in the early development stage with planning the wireframes of the website my goal was to have my images as a main focal point. To enforce that from the first interaction, I decided to have a full page image of a Kitesurfer (her0-image), which immediately gives the audience the feel of what the website is all about. The landing page highlights the benefits of Kitesurfing, as well as showing the times  (of which is displayed on other pages also should the user need same, the concept is of repetitive simplicity).
+From the beginning in the early development stage with planning the wireframes of the website my goal was to have my images as a main focal point. To enforce that from the first interaction, I decided to have a full page image of a Kitesurfer (hero-image), which immediately gives the audience the feel of what the website is all about. The landing page highlights the benefits of Kitesurfing, as well as showing the times  (of which is displayed on other pages also should the user need same, the concept is of repetitive simplicity).
+
+The colours in the hero image are something that I aimed to maintain throughout the site.
 
 First Time Visitor Goals:
 As a first time visitor I need to able to navigate the site easily and clearly understand how to use the function of the site.
@@ -26,6 +29,7 @@ I would also like to understand the benefits of kitesurfing.
 Design:
 Typography
 My ambition was to maintain transperancy throughout the customer journey, so I tried to maintain consistency in font and design throughout.
+In practicality, the purpose of the site is to drive traffic to the "book now" page. As this is essentially a commerce site. For that reason I decided to highlight the "Book now" tab.
 
 Logo
 
@@ -39,12 +43,14 @@ design
 
 The site's primary colours are blue, cream, navy and white. 
 
-The reason for my colour palette was to try and resemble beach imagery. The font color and gallery imagery worked well with this mix of colour. I feel the website has an aqua feel.
+The reason for my colour palette was to try and resemble hero imagery. The font color and gallery imagery worked well with this mix of colour. I feel the website has an aqua feel, and is easy on the eye.
+
+These colours are fun and simple.
 
 Layout:
-As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages.
+As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages. 
 
-Information about the times/booking for lessons is displayed on a number of pages, as it is the primary purpose of the site. It was important that this information was transperant clear and easy to understand.
+Information about the times/booking for lessons is displayed on a number of pages, as it is one of two primary purpose of the site, the other being to make a booking. It was important that this information was transperant clear and easy to understand.
 
 
 Wireframes
@@ -54,12 +60,13 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
 Index.html
 Index-Page
 
-My original plan as can be seen above was to have separate boxes on the home page which provided information and small catch phrases to draw in the target audience. However, throughout development I settled down on the idea that the home was more of a welcome page to the target audience. The only service it would have would be to help navigate people throughout the rest of the site.
+My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times.
 
-Trails.html
-Trails-Page
+Gallery.html
+Gallery
 
-When designing my trails page, my original plan was to have images floating left and right going all the way down the page, which a box either to the left or right of them depending on where the image was explaining about each of the trails. However, during development, I decided to have just the images first and then the information would be displayed when the user hovers over them.
+The main purpose of this page is to add a little life to the sport that is difficult to articulate. I chose these particular images as the were bright, playful and fun. The images are responsive.
+
 
 Phone And tablet Devices
 phone tablet
@@ -68,26 +75,23 @@ Features
 Current Features
 Every page is responsive on all devices.
 
-The footer contains 4 social media icons which are completely interactive and will take people to our social accounts where they can further contact us and look out for latest news.
+The footer contains 4 social media icons which are completely interactive and will take people to the relevant social accounts where they can contact us directly or review the platforms to understand what our customers are saying.
 
 Footer Socials
 
 Home page - This page contains buttons which will guide the audience to other places in the site.
 Home Buttons
 
-About page - This page provides the audience with information about me and the idea for the company.
+Gallery - This page directs you to images of people kitesurfing.
 
-Trails page - A page which consists of a 3 x 3 grid which allows users to select and read up on their desired choosing.
+Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
 
-Trail Boxes
+Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
 
-Book page - this page allows users to fill out a form which will help them book their favourite trails. (However, due to no back-end functionality, the information won't get fed anywhere)
 
 Contact page - A page which gives the users plenty of information on how to contact and find us if they need assistance with anything.
 
-Future Features
-Store - A store or even a basket section would be beneficial to the website because it will make booking trails for the user even easier.
-Technologies Used
+
 Below is everything that I used throughout development which helped with building the website.
 
 HTML: - HTMl5 provided the content and the structure of my website. I used a few semantic elements where possible.
@@ -105,6 +109,18 @@ GitHub: - GitHub was used to externally hold my repository. Will also use GitHub
 Balsamiq: - Balsamiq was used tp create wireframes during the designing process.
 
 Coolors - Coolors was used to help design my colour palette for the website.
+
+Pexels - Was used to download images.
+
+LoveRunnning - LMS project features were used.
+
+Mentor - I had a session with my mentor who helped me with coding issues I was facing.
+
+Slack Community - Very helpful in helping me with issues I encountered.
+
+YouTube - Helped me with dimension responsiveness.
+
+W3School - Helped me with booking form and calendar.
 
 Testing
 Testing was carried out both manually and automatically.
@@ -136,11 +152,11 @@ Solution: There was a problem in my code where one of my 'meta' was named viewpo
 
 Bug: My hero image for the index page wouldn't stretch to screen for mobile devices.
 
-Solution: I altered my code and changed the height of the image from pixels to 'vh'.
+Solution: I altered the image to "cover".
 
 Deployment
 GitHub Pages
-I deployed this site through GitHub pages. This was a simple process, as follows:
+I deployed this site through GitHub pages, as follows:
 
 Log into GitHub
 
@@ -155,7 +171,7 @@ Select the source (I chose master branch in this instance)
 After some time, the site will be deployed and ready to see.
 
 Credits
-Thanks to Reuben Ferrante, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right direction.
+Thanks to Anthony, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right direction.
 
 The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project.
 
