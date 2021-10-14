@@ -198,16 +198,12 @@
 
 /* club ethos*/
 
-#club-ethos {
-    height: 600px;
-}
-
 #club-ethos h2 {
     color: rgb(243, 161, 175);
 }
 
 #club-ethos h1 {
-        color: rgb(161, 194, 243);
+        color: rgb(145, 161, 229);
 }
 
 #left-about {
@@ -360,7 +356,6 @@ footer {
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
-        height: 1200px;
         margin: 0 auto;
     }
 
@@ -427,7 +422,6 @@ footer {
 
 #club-ethos {
     width: 90%;
-    height: 1200px;
     margin: 0 auto;
 }
 
