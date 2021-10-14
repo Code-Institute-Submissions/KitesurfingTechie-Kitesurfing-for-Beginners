@@ -71,36 +71,33 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
 <h1>Index.html</h1>
 Index-Page
 
-My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times.
+My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times. 
+This page contains buttons which will guide the audience to other places in the site.
+Home Buttons
 
 Gallery.html
 Gallery
 
-The main purpose of this page is to add a little life to the sport that is difficult to articulate. I chose these particular images as the were bright, playful and fun. The images are responsive.
+The main purpose of this page is to add a little life to the sport that is difficult to articulate. I chose these particular images as the were bright, playful and fun. The images are responsive. This page directs you to images of people kitesurfing.
 
+Sign-up.html
+Book Now
 
-Phone And tablet Devices
-phone tablet
+Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
+
+Win-a-free-lesson.html;
+Win a Lesson
+
+Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
 
 <h1>Features</h1>
 Current Features
 Every page is responsive on all devices.
 
-The footer contains 4 social media icons which are completely interactive and will take people to the relevant social accounts where they can contact us directly or review the platforms to understand what our customers are saying.
 
 <h1>Footer Socials</h1>
 
-Home page - This page contains buttons which will guide the audience to other places in the site.
-Home Buttons
-
-Gallery - This page directs you to images of people kitesurfing.
-
-Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
-
-Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
-
-
-Contact page - A page which gives the users plenty of information on how to contact and find us if they need assistance with anything.
+The footer contains 4 social media icons which are completely interactive and will take people to the relevant social accounts where they can contact us directly or review the platforms to understand what our customers are saying.
 
 
 <h1>Below is everything that I used throughout development which helped with building the website.</h1>
