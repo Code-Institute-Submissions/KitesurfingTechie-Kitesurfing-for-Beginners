@@ -4,7 +4,7 @@ Live link https://kitesurfingtechie.github.io/Kitesurfing-for-Beginners/
 
 GitHub Repository
 
-![Responsive Screenshot Mockup](/assets/images/responsiveness.JPG)
+![Responsive Screenshot Mockup](assets/images/README images/Responsiveness.JPG)
 
 responsive
 
