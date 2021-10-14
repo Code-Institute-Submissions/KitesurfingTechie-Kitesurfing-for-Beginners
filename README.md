@@ -18,6 +18,7 @@ From the beginning in the early development stage with planning the wireframes o
 
 The colours in the hero image are something that I aimed to maintain throughout the site.
 
+
 First Time Visitor Goals:
 As a first time visitor I need to able to navigate the site easily and clearly understand how to use the function of the site.
 I would like to understand Who, What, Where and When these lessons take place.
@@ -34,6 +35,8 @@ Logo
 
 My Headings for all of my pages use a font called 'Roboto''. I chose this font because it is easy to read and it makes it clear that the headings are the introduction to every page.
 
+<img src="assets/images/README-images/Rob.JPG" alt="Roboto">
+
 Any other text that was used throughout the site has a font of 'sans-serif' and I chose this font because it looks very modern and again is easy to read.
 paragraphs
 
@@ -45,6 +48,8 @@ The site's primary colours are blue, cream, navy and white.
 The reason for my colour palette was to try and resemble hero imagery. The font color and gallery imagery worked well with this mix of colour. I feel the website has an aqua feel, and is easy on the eye.
 
 These colours are fun and simple.
+
+<img src="assets/images/README-images/Colors.JPG" alt="Primary-colours">
 
 Layout:
 As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages. 
