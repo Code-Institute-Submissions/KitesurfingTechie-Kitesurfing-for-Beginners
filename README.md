@@ -55,10 +55,13 @@ Information about the times/booking for lessons is displayed on a number of page
 
 Wireframes
 Below will be attached of all my wireframes. These were very basic mockups of how I intended my website to look from the beginning.
+<br>
+<section id="Wires">
 <img src="assets/images/README-images/README Index.JPG" alt="Index">
 <img src="assets/images/README-images/README Gallery.JPG" alt="Gallery">
 <img src="assets/images/README-images/README Book-now.JPG" alt="Book now">
 <img src="assets/images/README-images/README Win-a-lesson.JPG" alt="Win Win Win">
+</section>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Index.html

@@ -576,4 +576,17 @@ label {
     overflow: scroll;
 }
 
+/* README Images */
+
+#Wires {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+}
+
+#photos>img {
+    width: 80%;
+}
+
 
