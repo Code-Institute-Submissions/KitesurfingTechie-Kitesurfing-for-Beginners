@@ -131,7 +131,7 @@ Automatic testing of my HTML and CSS structure were done in W3C Validator to ens
 
 HTML validator for index.html
 
-Index HTML Validator
+<a href="validator.w3.org">Index HTML Validator</a>
 
 CSS Validator
 
@@ -160,27 +160,21 @@ Bug: Warning Header: I do not have anything to say what the map is showing. Was 
 GitHub Pages
 I deployed this site through GitHub pages, as follows:
 
-Log into GitHub
-
-Go to the repository
-
-Go to settings
-
-Scroll down to "GitHub Pages" section
-
-Select the source (I chose master branch in this instance)
-
-After some time, the site will be deployed and ready to see.
+<ul>
+    <li>Log into GitHub</li>
+    <li>Go to the repository</li>
+    <li>Go to settings</li>
+    <li>Scroll down to "GitHub Pages" section</li>
+    <li>Select the source (I chose master branch in this instance)</li>
+    <li>After some time, the site will be deployed and ready to see.</li>
+</ul>Log into GitHub
 
 <h1>Credits</h1>
-Thanks to Anthony, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right direction.
-
-The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project. Particularily Matt Bodden.
-
-W3Schools for their exceptional explanations and useful examples.
-
-Coolors - Used to create my colour palette.
-
-Balsamiq - Used to build wireframes for my website.
-
-W3C Validator - A validator used to check my HTML and CSS structure and format periodically throughout the build.
+<ul>
+    <li>Thanks to Anthony, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right     direction.</li>
+    <li>The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project. Particularily Matt Bodden.</li>
+    <li>W3Schools for their exceptional explanations and useful examples.</li>
+    <li>Coolors - Used to create my colour palette.</li>
+    <li>Balsamiq - Used to build wireframes for my website.</li>
+    <li>W3C Validator - A validator used to check my HTML and CSS structure and format periodically throughout the build.</li>
+</ul>
