@@ -5,13 +5,13 @@ GitHub Repository
 
 <img src="assets/images/README-images/Responsiveness.JPG" alt="Responsive">
 
-Overview
+<h1>Overview</h1>
 Kitesurfing for beginners is my Portfolio 1 project.
 
 The site is fully responsive and laid out in a minimal manner to present users with relevant and clear information. The site is generated through html. I was originally given a brief of a project before I started or had the option to come up with my own. I decided to challenge myself and completely come up with an original idea and that is how 'Kitesurfing for beginners' was created. The scope of the project does not
 include any back-end functionality, so where a customer completed "Win a lesson" and "Sign-up" form on my page, the information entered into the fields will not feed anywhere. However, the customer will be redirected to a follow-on page on both instances, i.e. Thank you for your booking & Thank you for completing the form with a chance to win a lesson".
 
-UX
+<h1>UX</h1>
 The primary goal with the sites UX, in terms of UI, was to ensure the design was a simple design, almost minimalist, which helps unclutter and not overload the audience with information and overwhelm them.
 
 From the beginning in the early development stage with planning the wireframes of the website my goal was to have my images as a main focal point. To enforce that from the first interaction, I decided to have a full page image of a Kitesurfer (hero-image), which immediately gives the audience the feel of what the website is all about. The landing page highlights the benefits of Kitesurfing, as well as showing the times  (of which is displayed on other pages also should the user need same, the concept is of repetitive simplicity).
@@ -19,19 +19,19 @@ From the beginning in the early development stage with planning the wireframes o
 The colours in the hero image are something that I aimed to maintain throughout the site.
 
 
-First Time Visitor Goals:
+<h1>First Time Visitor Goals:</h1>
 As a first time visitor I need to able to navigate the site easily and clearly understand how to use the function of the site.
 I would like to understand Who, What, Where and When these lessons take place.
 I would like to know how to make a booking for a lesson, and i would like that process to be very very clear and simple.
 I would also like to understand the benefits of kitesurfing.
 
 
-Design:
+<h1>Design:</h1>
 Typography
 My ambition was to maintain transperancy throughout the customer journey, so I tried to maintain consistency in font and design throughout.
 In practicality, the purpose of the site is to drive traffic to the "book now" page. As this is essentially a commerce site. For that reason I decided to highlight the "Book now" tab.
 
-Logo
+<h1>Logo</h1>
 
 My Headings for all of my pages use a font called 'Roboto''. I chose this font because it is easy to read and it makes it clear that the headings are the introduction to every page.
 
@@ -40,7 +40,7 @@ My Headings for all of my pages use a font called 'Roboto''. I chose this font b
 Any other text that was used throughout the site has a font of 'sans-serif' and I chose this font because it looks very modern and again is easy to read.
 paragraphs
 
-Colour Scheme
+<h1>Colour Scheme</h1>
 design
 
 The site's primary colours are blue, cream, navy and white. 
@@ -57,7 +57,7 @@ As mentioned earlier, the site is deliberately minimal with what is showcased to
 Information about the times/booking for lessons is displayed on a number of pages, as it is one of two primary purpose of the site, the other being to make a booking. It was important that this information was transperant clear and easy to understand.
 
 
-Wireframes
+<h1>Wireframes</h1>
 Below will be attached of all my wireframes. These were very basic mockups of how I intended my website to look from the beginning.
 <br>
 <section id="Wires">
@@ -68,7 +68,7 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
 </section>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-Index.html
+<h1>Index.html</h1>
 Index-Page
 
 My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times.
@@ -82,13 +82,13 @@ The main purpose of this page is to add a little life to the sport that is diffi
 Phone And tablet Devices
 phone tablet
 
-Features
+<h1>Features</h1>
 Current Features
 Every page is responsive on all devices.
 
 The footer contains 4 social media icons which are completely interactive and will take people to the relevant social accounts where they can contact us directly or review the platforms to understand what our customers are saying.
 
-Footer Socials
+<h1>Footer Socials</h1>
 
 Home page - This page contains buttons which will guide the audience to other places in the site.
 Home Buttons
@@ -103,7 +103,7 @@ Win a Free Lesson - This page directs customers a feedback form, where when comp
 Contact page - A page which gives the users plenty of information on how to contact and find us if they need assistance with anything.
 
 
-Below is everything that I used throughout development which helped with building the website.
+<h1>Below is everything that I used throughout development which helped with building the website.</h1>
 
 HTML: - HTMl5 provided the content and the structure of my website. I used a few semantic elements where possible.
 
@@ -133,7 +133,7 @@ YouTube - Helped me with dimension responsiveness.
 
 W3School - Helped me with booking form and calendar.
 
-Testing
+<h1>Testing</h1>
 Testing was carried out both manually and automatically.
 
 For Manual testing I constantly had a preview of the website and specifically the page I was working on which I would check on regularly and hard reset the browser so any changes to my code would appear. If I found there was an error with my code, especially when first working with media queries, I would use the dev tools to change, alter and add code and make sure it worked smoothly before then adding it to gitpod. I also tested responsiveness both through console tools, alongside using different browsers on different type of devices.My different browser is Google Chrome and this is where I did majority of my tests, but I was able to use safari, microsoft edge and firefox and test my website on them as well.
@@ -154,7 +154,7 @@ CSS Validator
 
 Additionally to the above, I had given my Github pages link to various people in order to rigorously test the website, both on mobile and desktop.
 
-Bugs
+<h1>Bugs</h1>
 During the testing of the build I discorvered that content wasn't appearing how it was supposed to. I will list a few of the bugs below.
 
 Bug: I had coded it so on mobile screen sizes, the nav bar turned into a dropdown menu, however for some reason it wasn't being implemented when testing the website.
@@ -165,7 +165,7 @@ Bug: My hero image for the index page wouldn't stretch to screen for mobile devi
 
 Solution: I altered the image to "cover".
 
-Deployment
+<h1>Deployment</h1>
 GitHub Pages
 I deployed this site through GitHub pages, as follows:
 
@@ -181,10 +181,10 @@ Select the source (I chose master branch in this instance)
 
 After some time, the site will be deployed and ready to see.
 
-Credits
+<h1>Credits</h1>
 Thanks to Anthony, my code institute mentor, for his guidance and insight and the constant confidence boost to help me in the right direction.
 
-The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project.
+The Slack community. The amount of help and support and encouragement I recieved really helped throughout the project. Particularily Matt Bodden.
 
 W3Schools for their exceptional explanations and useful examples.
 
