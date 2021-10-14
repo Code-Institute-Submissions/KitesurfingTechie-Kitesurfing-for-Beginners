@@ -80,6 +80,11 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
     Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
 <li><a href="Win-a-free-lesson.html">Win a lesson</a></li>
     Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
+<li><a href="Booked.html">Thank you for booking</a></li>
+    This site appears here a customer makes a booking.
+
+<li><a href="free-lesson.html">Thank you for completing the form</a></li>
+    This site appears here a customer makes a booking.
 
 <h1>Features</h1>
 Current Features
@@ -167,7 +172,7 @@ I deployed this site through GitHub pages, as follows:
     <li>Scroll down to "GitHub Pages" section</li>
     <li>Select the source (I chose master branch in this instance)</li>
     <li>After some time, the site will be deployed and ready to see.</li>
-</ul>Log into GitHub
+</ul>
 
 <h1>Credits</h1>
 <ul>
