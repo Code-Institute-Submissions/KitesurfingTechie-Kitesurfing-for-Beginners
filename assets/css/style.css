@@ -350,6 +350,20 @@ footer {
     animation-fill-mode: forwards;
 }
 
+/* confirmed */
+
+#confirmed>img {
+    width: 10%;
+    position: inherit
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
 /* media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
