@@ -71,15 +71,15 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
 <h1>Pages</h1>
 
 <li><a href="index.html">Home</a></li>
-My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times. 
-This page contains buttons which will guide the audience to other places in the site.
-Home Buttons
+    My Plan was to have one "cool" hero image dominating the page. I chose this image as it is visually appealing, as the kiter looks "in the zone". I want to customer to understand the benefits of kitesurfing (as it is an infant sport in Ireland) and I wanted it to be very clear around times. 
+    This page contains buttons which will guide the audience to other places in the site.
+    Home Buttons
 <li><a href="gallery.html">Gallery</a></li>
-The main purpose of this page is to add a little life to the sport that is difficult to articulate. I chose these particular images as the were bright, playful and fun. The images are responsive. This page directs you to images of people kitesurfing.
+    The main purpose of this page is to add a little life to the sport that is difficult to articulate. I chose these particular images as the    were bright, playful and fun. The images are responsive. This page directs you to images of people kitesurfing.
 <li><a href="sign-up.html">Book now</a></li>
-Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
+    Book Now - This page directs customers to booking a lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (booked.html) which will confirm to the user that they have successfully made a booking.
 <li><a href="Win-a-free-lesson.html">Win a lesson</a></li>
-Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
+    Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
 
 <h1>Features</h1>
 Current Features
@@ -99,17 +99,15 @@ CSS: - CSS was used to style all my pages.
 
 Google Fonts: - Google fonts was used to import all font types for the different elements.
 
-Font Awesome: - Font awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+<a href="fontawesome.com">Font Awesome:</a> Font awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-Git - Git was used for version control. Allowing me to create backups whenever significant changes were made to code by utilizing the gitpod terminal to commit to Git and Push to GitHub.
+<a href="github.com">Git Hub:</a> GitHub was used to externally hold my repository. Will also use GitHub pages to deploy my website..
 
-GitHub: - GitHub was used to externally hold my repository. Will also use GitHub pages to deploy my website.
+<a href="Balsamiq.com">Balsamiq:</a> Balsamiq was used tp create wireframes during the designing process.
 
-Balsamiq: - Balsamiq was used tp create wireframes during the designing process.
+<a href="Coolors.com">Coolors:</a> Coolors was used to help design my colour palette for the website.
 
-Coolors - Coolors was used to help design my colour palette for the website.
-
-Pexels - Was used to download images.
+<a href="Pexels.com">Pexels:</a> Pexels Was used to download images.
 
 LoveRunnning - LMS project features were used.
 
@@ -117,9 +115,9 @@ Mentor - I had a session with my mentor who helped me with coding issues I was f
 
 Slack Community - Very helpful in helping me with issues I encountered.
 
-YouTube - Helped me with dimension responsiveness.
+<a href="YouTube.com">YouTube:</a> Helped me with dimension responsiveness.
 
-W3School - Helped me with booking form and calendar.
+<a href="W3School.com">W3School:</a> Helped me with booking form and calendar.
 
 <h1>Testing</h1>
 Testing was carried out both manually and automatically.
