@@ -433,7 +433,7 @@ footer {
         width: 500px;
     }
     
-    form {
+    .form {
         width: 500px;
     }
 }
@@ -486,10 +486,21 @@ footer {
     .form {
         width: 500px;
     }
-
 }
 
+/*for smaller screens sizes 580px */
 
+@media screen and (max-width: 580px) {
+
+    .signup-form {
+        width: 200px;
+    }
+
+    .form {
+        width: 250px;
+    }
+
+}
 
 /* Sign up page */
 
