@@ -1,6 +1,5 @@
 
-Kitesurfing for beginners
-Live link https://kitesurfingtechie.github.io/Kitesurfing-for-Beginners/
+<a href="https://kitesurfingtechie.github.io/Kitesurfing-for-Beginners/">Kitesurfing for beginners Link</a>
 
 GitHub Repository
 
