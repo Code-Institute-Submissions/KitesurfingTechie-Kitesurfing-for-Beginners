@@ -159,6 +159,8 @@ Bug: When I tested my site via html checker I got the below two errors intially:
 
 <img src="assets/images/README-images/checker-errors.JPG" alt="errors">
 
+Bug: Error: I tried adding and id to the iframe, and adding the width and height into css. Unfortuntely it did work as I had hoped. I asked Slack community and Tutor Support to help.
+
 Bug: Warning Header: I do not have anything to say what the map is showing. Was advised by Slack Community to ignore it.
 
 <h1>Deployment</h1>
