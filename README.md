@@ -43,7 +43,7 @@ paragraphs
 <h1>Colour Scheme</h1>
 design
 
-The site's primary colours are blue, cream, navy and white. 
+The site's primary colours are blue, pink, cream, navy and white. 
 
 The reason for my colour palette was to try and resemble hero imagery. The font color and gallery imagery worked well with this mix of colour. I feel the website has an aqua feel, and is easy on the eye.
 
@@ -65,11 +65,11 @@ Information about the times/booking for lessons is displayed on a number of page
 <h1>Wireframes</h1>
 Below will be attached of all my wireframes. These were very basic mockups of how I intended my website to look from the beginning.
 <br>
-<section id="Wires">
-<img src="assets/images/README-images/README Index.JPG" alt="Index">
-<img src="assets/images/README-images/README Gallery.JPG" alt="Gallery">
-<img src="assets/images/README-images/README Book-now.JPG" alt="Book now">
-<img src="assets/images/README-images/README Win-a-lesson.JPG" alt="Win Win Win">
+<section class="Wires" id="Wires">
+    <img src="assets/images/README-images/README Index.JPG" alt="Index">
+    <img src="assets/images/README-images/README Gallery.JPG" alt="Gallery">
+    <img src="assets/images/README-images/README Book-now.JPG" alt="Book now">
+    <img src="assets/images/README-images/README Win-a-lesson.JPG" alt="Win Win Win">
 </section>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -107,7 +107,7 @@ HTML: - HTMl5 provided the content and the structure of my website. I used a few
 
 CSS: - CSS was used to style all my pages.
 
-Google Fonts: - Google fonts was used to import all font types for the different elements.
+<a href="fonts.google.com/">Google fonts:</a> Google fonts was used to import all font types for the different elements.
 
 <a href="fontawesome.com">Font Awesome:</a> Font awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
@@ -145,9 +145,6 @@ HTML validator for index.html
 
 <a href="validator.w3.org">Index HTML Validator</a>
 
-CSS Validator
-
-CSS Validator
 
 Additionally to the above, I had given my Github pages link to various people in order to rigorously test the website, both on mobile and desktop.
 
