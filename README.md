@@ -51,6 +51,11 @@ These colours are fun and simple.
 
 <img src="assets/images/README-images/Colors.JPG" alt="Primary-colours">
 
+Having tested the font compatibility via WAVE I had to make the fonts a little darker and brighter in areas. Please see below WAVE before and After reports.
+
+<img src="assets/images/README-images/WAVE-before.JPG" alt="WAVE Before">
+<img src="assets/images/README-images/WAVE-after.JPG" alt="WAVE After">
+
 Layout:
 As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages. 
 
@@ -113,6 +118,8 @@ Google Fonts: - Google fonts was used to import all font types for the different
 <a href="Coolors.com">Coolors:</a> Coolors was used to help design my colour palette for the website.
 
 <a href="Pexels.com">Pexels:</a> Pexels Was used to download images.
+
+<a href="wave.webaim.org">Wave:</a> Wave was used to validate colours.
 
 LoveRunnning - LMS project features were used.
 
