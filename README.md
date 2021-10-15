@@ -53,8 +53,7 @@ These colours are fun and simple.
 
 Having tested the font compatibility via WAVE I had to make the fonts a little darker and brighter in areas. Please see below WAVE before and After reports.
 
-<img src="assets/images/README-images/WAVE-before.JPG" alt="WAVE Before">
-<img src="assets/images/README-images/WAVE-after.JPG" alt="WAVE After">
+<img src="assets/images/README-images/WAVE.JPG" alt="WAVE BeforeAfter">
 
 Layout:
 As mentioned earlier, the site is deliberately minimal with what is showcased to provide easy access and navigation. I chose to use images to bring colour and to help break up the text on some of the pages. 
@@ -65,7 +64,7 @@ Information about the times/booking for lessons is displayed on a number of page
 <h1>Wireframes</h1>
 Below will be attached of all my wireframes. These were very basic mockups of how I intended my website to look from the beginning.
 <br>
-<section class="Wires" id="Wires">
+<section id="Wires">
     <img src="assets/images/README-images/README Index.JPG" alt="Index">
     <img src="assets/images/README-images/README Gallery.JPG" alt="Gallery">
     <img src="assets/images/README-images/README Book-now.JPG" alt="Book now">
