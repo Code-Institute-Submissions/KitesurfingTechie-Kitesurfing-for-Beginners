@@ -161,7 +161,7 @@ Bug: When I tested my site via html checker I got the below two errors intially:
 
 Bug: Warning Header: I do not have anything to say what the map is showing. Was advised by Slack Community to ignore it.
 
-Bug: Error: I tried adding and id to the iframe, and adding the width and height into css. Unfortuntely it did work as I had hoped. I asked Slack community and Tutor Support to help. Where we successfully managed to fix the iframe in CSS, by changing the from an id to a class. Happy to say there are now no Errors on my site.
+Bug: Error: I tried adding and id to the iframe, and adding the width and height into css. Unfortuntely it did work as I had hoped. I asked Slack community and Tutor Support to help. Where we successfully managed to fix the iframe in CSS, by changing the iframe from an id to a class. Happy to say there are now no Errors on my site.
 
 <img src="assets/images/README-images/html-validator.JPG" alt="noerrors">
 

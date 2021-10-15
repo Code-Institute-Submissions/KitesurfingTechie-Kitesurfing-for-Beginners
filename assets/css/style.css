@@ -200,7 +200,7 @@
 
     padding-top: 40px;
     padding-left: 10px;
-    background-color: #679bbe;
+    background-color: #3483b8;
 
     bottom: 30px;
     right: 150px;
@@ -211,11 +211,11 @@
 /* club ethos*/
 
 #club-ethos h2 {
-    color: rgb(243, 161, 175);
+    color: rgb(236, 73, 100);
 }
 
 #club-ethos h1 {
-        color: rgb(145, 161, 229);
+        color: rgb(84, 108, 218);
 }
 
 #left-about {
@@ -273,7 +273,7 @@ hr {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
-    color: rgb(102, 112, 170);
+    color: rgb(71, 85, 163);
 }
 
 #circle-container {
@@ -525,12 +525,12 @@ footer {
     width: 100%;
     border: none;
     text-align: center;
-    color: #404040;
+    color: #1f1f1f;
 }
 
 .signup-form label,
 .signup-form h2 {
-    color: #404040;
+    color: #1f1e1e;
 }
 
 #Lets-Go {
