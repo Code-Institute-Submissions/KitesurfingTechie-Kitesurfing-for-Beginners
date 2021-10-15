@@ -81,10 +81,10 @@ Below will be attached of all my wireframes. These were very basic mockups of ho
 <li><a href="Win-a-free-lesson.html">Win a lesson</a></li>
     Win a Free Lesson - This page directs customers a feedback form, where when completed the customer is in with a chance to winning a free lesson. Whilst there is no backend functionalty, the customer will however be redirected to a new html page (free-lesson.html) which will confirm to the user that they have successfully completed the form.
 <li><a href="Booked.html">Thank you for booking</a></li>
-    This site appears here a customer makes a booking.
+    This site appears where a customer makes a booking.
 
 <li><a href="free-lesson.html">Thank you for completing the form</a></li>
-    This site appears here a customer makes a booking.
+    This site appears where a customer makes a form.
 
 <h1>Features</h1>
 Current Features

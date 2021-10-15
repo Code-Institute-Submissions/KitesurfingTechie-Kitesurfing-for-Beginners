@@ -523,20 +523,6 @@ footer {
     padding: 2%;
 }
 
-/* maps */
-#map-wrapper {
-    height: 300px;
-    margin-bottom: 107px;
-    width: 100%;
-}
-
-#map {
-    height: 100%;
-    width: 100%;
-    border: none;
-}
-
-
 /* win a booking */
 
 input[list=coffees] {
