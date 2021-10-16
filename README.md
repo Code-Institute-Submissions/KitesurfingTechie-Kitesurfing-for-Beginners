@@ -145,6 +145,10 @@ HTML validator for index.html
 <a href="validator.w3.org">Index HTML Validator</a>
 
 
+<a href="jigsaw.w3.org">W3C CSS Validator</a>
+
+<img src="assets/images/README-images/W3C.JPG" alt="CSS">
+
 Additionally to the above, I had given my Github pages link to various people in order to rigorously test the website, both on mobile and desktop.
 
 <h1>Bugs</h1>
